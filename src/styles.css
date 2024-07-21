@@ -1,0 +1,9 @@
+body {
+  background: rgb(54, 54, 54);
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
